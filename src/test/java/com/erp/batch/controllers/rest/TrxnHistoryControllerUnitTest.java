@@ -2,8 +2,7 @@ package com.erp.batch.controllers.rest;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.erp.batch.domain.entities.Gender;
-import com.erp.batch.domain.entities.TrxnHistory;
-import com.erp.batch.services.iServices.iTrxnHistoryService;
+import com.erp.batch.controllers.batch.trxnhistory.TrxnHistory;
 import com.erp.batch.mainapp.BatchProcessingAppTest;
 import com.erp.batch.mainapp.config.BeanConfig;
 import com.erp.batch.mainapp.config.TestJPAConfig;

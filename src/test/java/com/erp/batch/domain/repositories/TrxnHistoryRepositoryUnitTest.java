@@ -1,7 +1,7 @@
 package com.erp.batch.domain.repositories;
 
 import com.erp.batch.domain.entities.Gender;
-import com.erp.batch.domain.entities.TrxnHistory;
+import com.erp.batch.controllers.batch.trxnhistory.TrxnHistory;
 import com.erp.batch.mainapp.config.TestJPAConfig;
 import org.junit.Assert;
 import org.junit.Test;

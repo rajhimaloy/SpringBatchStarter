@@ -1,4 +1,4 @@
-package com.infoworks.lab.controllers.batch.message;
+package com.erp.batch.controllers.batch.message;
 
 import com.infoworks.lab.rest.models.Message;
 import org.springframework.batch.item.ItemWriter;

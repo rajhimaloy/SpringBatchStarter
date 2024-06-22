@@ -1,6 +1,7 @@
-package com.erp.batch.domain.entities;
+package com.erp.batch.controllers.batch.trxnhistory;
 
 import com.erp.batch.domain.constraint.Gender.IsValidGender;
+import com.erp.batch.domain.entities.Gender;
 import com.it.soul.lab.sql.SQLExecutor;
 import com.it.soul.lab.sql.entity.Ignore;
 import com.it.soul.lab.sql.entity.PrimaryKey;

@@ -1,7 +1,7 @@
 package com.erp.batch.controllers.rest;
 
 import com.erp.batch.domain.entities.Gender;
-import com.erp.batch.domain.entities.TrxnHistory;
+import com.erp.batch.controllers.batch.trxnhistory.TrxnHistory;
 import com.erp.batch.rest.models.ItemCount;
 import com.erp.batch.mainapp.BatchProcessingAppTest;
 import com.erp.batch.mainapp.config.BeanConfig;

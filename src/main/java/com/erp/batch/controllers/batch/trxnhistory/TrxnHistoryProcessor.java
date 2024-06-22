@@ -1,6 +1,5 @@
 package com.erp.batch.controllers.batch.trxnhistory;
 
-import com.erp.batch.domain.entities.TrxnHistory;
 import org.springframework.batch.item.ItemProcessor;
 
 public class TrxnHistoryProcessor implements ItemProcessor<TrxnHistory, TrxnHistory> {
